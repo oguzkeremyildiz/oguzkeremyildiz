@@ -1,16 +1,14 @@
+# Oğuz Kerem YILDIZ
 
+### About
 
-<!--
-**oguzkeremyildiz/oguzkeremyildiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Oğuz Kerem Yıldız now currently studying at the Computer Engineering Department at Özyeğin University. His research interests include Natural Language Processing, Machine Learning, CCG and Parsing. He has been a part of NLP projects at Starlang Software since 2019.
 
-Here are some ideas to get you started:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICI_ADIN&layout=compact)](https://github.com/anurag-hazra/github-readme-stats)
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### GitHub Statistics
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=oguzkeremyildiz&show_icons=true&theme=radical&count_private=true" alt="İstatistik Kartı" height="192px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oguzkeremyildiz&layout=compact&theme=radical" alt="En Çok Kullanılan Diller" height="192px" />
+</p>

@@ -9,7 +9,7 @@ Oğuz Kerem Yıldız now currently studying at the Computer Engineering Departme
 ### GitHub Statistics
 
 <p align="left">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=oguzkeremyildiz&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="180px" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=oguzkeremyildiz&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=stars,contribs" height="180px" />
 
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=oguzkeremyildiz&layout=compact&theme=radical&include_all_commits=true&count_private=true" height="180px" />
 </p>

@@ -7,4 +7,4 @@ Oğuz Kerem Yıldız now currently studying at the Computer Engineering Departme
 ---
 
 ### GitHub Statistics
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=oguzkeremyildiz)](https://github.com/oguzkeremyildiz/github-readme-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=oguzkeremyildiz&show_icons=true&theme=radical)

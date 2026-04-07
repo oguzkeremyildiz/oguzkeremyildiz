@@ -5,6 +5,7 @@
 Oğuz Kerem Yıldız now currently studying at the Computer Engineering Department at Özyeğin University. His research interests include Natural Language Processing, Machine Learning, CCG and Parsing. He has been a part of NLP projects at Starlang Software since 2019.
 
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=Y2PZuAEAAAAJ&hl=en)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Oguz-Yildiz-9?ev=hdr_xprf)
 
 ---
 

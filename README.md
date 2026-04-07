@@ -8,18 +8,6 @@ Oğuz Kerem Yıldız now currently studying at the Computer Engineering Departme
 
 ### GitHub Statistics
 
-<p align="left">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oguzkeremyildiz&theme=radical" height="150" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=oguzkeremyildiz&theme=radical" height="150" />
-</p>
+![Oğuz Kerem Stats](https://github-readme-stats-one-eight.vercel.app/api?username=oguzkeremyildiz&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 
-<p align="left">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=oguzkeremyildiz&theme=radical" height="150" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=oguzkeremyildiz&theme=radical&utcOffset=3" height="150" />
-</p>
-
-### Github Trophies
-
-<p align="left">
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oguzkeremyildiz&theme=radical&column=7" alt="oguzkeremyildiz trophies" /></a>
-</p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=oguzkeremyildiz&theme=radical)

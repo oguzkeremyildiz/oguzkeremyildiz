@@ -15,11 +15,3 @@ Oğuz Kerem Yıldız now currently studying at the Computer Engineering Departme
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
-
----
-
-### GitHub Statistics
-
-<p align="left">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=oguzkeremyildiz&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=stars,contribs" height="180px" />
-</p>
